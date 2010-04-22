@@ -1,0 +1,17 @@
+90000000 iterations.  Swapping every 90000000 tests
+JavaSimpleBreak = 254 (0.0016279129387033098)
+ScalaSimpleBreak = 2475 (0.015862537493270438)
+ScalaBreakException = 18806 (0.12052964852462379)
+ScalaException = 156028 (1.0)
+
+90000000 iterations.  Swapping every 500000 tests
+JavaSimpleBreak = 772 (0.005138547761203965)
+ScalaSimpleBreak = 2351 (0.015648608531853004)
+ScalaBreakException = 19346 (0.12876987692778744)
+ScalaException = 150237 (1.0)
+
+90000000 iterations.  Swapping every 500 tests
+JavaSimpleBreak = 790 (0.005242446563543097)
+ScalaSimpleBreak = 2247 (0.014911110668710557)
+ScalaBreakException = 19213 (0.1274976276270298)
+ScalaException = 150693 (1.0)
